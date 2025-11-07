@@ -1,21 +1,62 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- 🌟 Profile Header -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#6C63FF;">Shubham Dogra</span></h1>
+<h3 align="center">🎓 B.Tech Computer Science Student | 💻 Developer | 🚀 Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham2006-nov&label=Profile%20views&color=0e75b6&style=flat" alt="shubham2006-nov" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham2006-nov" alt="shubham2006-nov" /></a> </p>
+## 💫 About Me:
+🌟 Hey! I’m a *B.Tech Computer Science student* with a strong passion for technology and innovation.  
+💡 I love exploring new frameworks, building projects, and diving deep into real-world problem-solving.  
+⚡ I believe in “learn, build, and repeat” — because growth never stops.  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/ShubhamDogra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://reddit.com/user/shubham_9026" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="mailto:contactshubhamhere@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham2006-nov&show_icons=true&locale=en&layout=compact" alt="shubham2006-nov" /></p>
+## 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham2006-nov&show_icons=true&locale=en" alt="shubham2006-nov" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham2006-nov&" alt="shubham2006-nov" /></p>
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06-nov&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=shubham2006-nov&theme=tokyonight&hide_border=false" height="170px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06-nov&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham-nov06&theme=onedark&no-frame=true&no-bg=true&margin-w=6"/>
+</p>
+
+---
+
+
+
+---
