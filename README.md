@@ -41,11 +41,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06-nov&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170px"/>
-  <img src="https://streak-stats.demolab.com?user=shubham2006-nov&theme=tokyonight&hide_border=false" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-nov06&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=shubham-nov06&theme=tokyonight&hide_border=false" height="170px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06-nov&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
 </p>
 
 ---
