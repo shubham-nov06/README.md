@@ -38,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/shubham-nov06/shubham-nov06/output/snake.svg" alt="Snake animation" />
 
 ###
