@@ -1,62 +1,53 @@
-<!-- 🌟 Profile Header -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#6C63FF;">Shubham Dogra</span></h1>
-<h3 align="center">🎓 B.Tech Computer Science Student | 💻 Developer | 🚀 Tech Explorer</h3>
+# Hi there 👋 I’m **Shubham Dogra**
+
+## ✨ About Me  
+I’m a 2nd‑year B.Tech (CSE) student with a passion for tech & innovation. I love exploring new frameworks, building meaningful projects, and learning every day.  
+**“Learn. Build. Repeat.”** — My growth mantra.
+
+- 🌱 I’m currently diving into: [list technologies you’re learning e.g., React.js, Node.js, Machine Learning, etc.]  
+- 💡 My interests include: problem solving, open‑source contributions, creating tools for real‑world impact.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham-dogra-12a604362) (feel free to connect!)  
+- ⚠️ Note: I might be slow to respond — there’s only one of me 😉  
 
 ---
 
-## 💫 About Me:
-🌟 Hey! I’m a *B.Tech Computer Science student* with a strong passion for technology and innovation.  
-💡 I love exploring new frameworks, building projects, and diving deep into real-world problem-solving.  
-⚡ I believe in “learn, build, and repeat” — because growth never stops.  
+## 🛠 Skills & Tools  
 
+### Programming Languages  
+C | C++ | Java | Python | JavaScript | HTML5 | CSS3  
 
----
+### Tools & Platforms  
+Git | GitHub | VS Code | [any others you use]
 
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/ShubhamDogra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://reddit.com/user/shubham_9026" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-  <a href="mailto:contactshubhamhere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### Core Abilities  
+- Problem Solving  
+- Tech Exploration  
+- Building Projects  
+- Continuous Learning  
 
 ---
 
-## 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+## 📦 Projects  
+Here are some of the projects I’m proud of:  
+- **Project Name** – Short description of what it does, the tech stack, your role.  
+- **Project Name** – Short description of what it does, the tech stack, your role.  
+…  
+*(Add links or screenshots if available)*
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham2006-nov&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170px"/>
-  <img src="https://streak-stats.demolab.com?user=shubham2006-nov&theme=tokyonight&hide_border=false" height="170px"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2006-nov&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
-</p>
+## 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-nov06&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-nov06&layout=compact&theme=default)
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham2006-nov&theme=onedark&no-frame=true&no-bg=true&margin-w=6"/>
-</p>
+## 🌍 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/shubham-dogra-12a604362)  
+- [GitHub Profile](https://github.com/shubham-nov06)  
+- [Email] – (you can add your email if you’re comfortable)
 
 ---
 
+Thanks for stopping by, and happy coding! 🚀  
 
-
----
