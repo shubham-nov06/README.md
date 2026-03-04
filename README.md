@@ -19,6 +19,8 @@ C | C++ | Java | Python | JavaScript | HTML5 | CSS3
 ### Tools & Platforms  
 Git | GitHub | VS Code | [any others you use]
 
+
+
 ### Core Abilities  
 - Problem Solving  
 - Tech Exploration  
